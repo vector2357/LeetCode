@@ -61,4 +61,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vector2357/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vector2357/LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vector2357/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vector2357/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vector2357/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
