@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vector2357/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/vector2357/LeetCode/tree/master/0035-search-insert-position) |
+| [0539-minimum-time-difference](https://github.com/vector2357/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0792-binary-search](https://github.com/vector2357/LeetCode/tree/master/0792-binary-search) |
 | [1435-xor-queries-of-a-subarray](https://github.com/vector2357/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/vector2357/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vector2357/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/vector2357/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0539-minimum-time-difference](https://github.com/vector2357/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vector2357/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vector2357/LeetCode/tree/master/0070-climbing-stairs) |
+| [0539-minimum-time-difference](https://github.com/vector2357/LeetCode/tree/master/0539-minimum-time-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/vector2357/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/vector2357/LeetCode/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
