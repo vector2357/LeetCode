@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vector2357/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vector2357/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/vector2357/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vector2357/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
@@ -36,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vector2357/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/vector2357/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0539-minimum-time-difference](https://github.com/vector2357/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/vector2357/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vector2357/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/vector2357/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vector2357/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Trie
 |  |
