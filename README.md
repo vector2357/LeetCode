@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vector2357/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/vector2357/LeetCode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/vector2357/LeetCode/tree/master/0035-search-insert-position) |
 | [0539-minimum-time-difference](https://github.com/vector2357/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0792-binary-search](https://github.com/vector2357/LeetCode/tree/master/0792-binary-search) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vector2357/LeetCode/tree/master/0015-3sum) |
 | [0539-minimum-time-difference](https://github.com/vector2357/LeetCode/tree/master/0539-minimum-time-difference) |
 ## Graph
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/vector2357/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/vector2357/LeetCode/tree/master/0176-second-highest-salary) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/vector2357/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
