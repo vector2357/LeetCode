@@ -114,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/vector2357/LeetCode/tree/master/1039-find-the-town-judge) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vector2357/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
