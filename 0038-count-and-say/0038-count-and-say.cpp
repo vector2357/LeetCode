@@ -1,9 +1,5 @@
 class Solution {
 public:
-    void recursive(int n) {
-
-    }
-
     string countAndSay(int n) {
         if(n == 1) return "1";
 
