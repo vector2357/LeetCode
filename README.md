@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vector2357/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vector2357/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/vector2357/LeetCode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vector2357/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1039-find-the-town-judge](https://github.com/vector2357/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/vector2357/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vector2357/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/vector2357/LeetCode/tree/master/0038-count-and-say) |
 | [0539-minimum-time-difference](https://github.com/vector2357/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/vector2357/LeetCode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vector2357/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vector2357/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vector2357/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/vector2357/LeetCode/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vector2357/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vector2357/LeetCode/tree/master/0015-3sum) |
+| [0567-permutation-in-string](https://github.com/vector2357/LeetCode/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vector2357/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
