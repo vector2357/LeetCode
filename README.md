@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vector2357/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vector2357/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vector2357/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vector2357/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/vector2357/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/vector2357/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/vector2357/LeetCode/tree/master/0045-jump-game-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vector2357/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vector2357/LeetCode/tree/master/0016-3sum-closest) |
 | [0539-minimum-time-difference](https://github.com/vector2357/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/vector2357/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vector2357/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vector2357/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/vector2357/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vector2357/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vector2357/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/vector2357/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vector2357/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vector2357/LeetCode/tree/master/0567-permutation-in-string) |
