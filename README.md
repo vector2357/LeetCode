@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vector2357/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/vector2357/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/vector2357/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/vector2357/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/vector2357/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/vector2357/LeetCode/tree/master/0048-rotate-image) |
 | [0539-minimum-time-difference](https://github.com/vector2357/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vector2357/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vector2357/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/vector2357/LeetCode/tree/master/0036-valid-sudoku) |
 | [0567-permutation-in-string](https://github.com/vector2357/LeetCode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vector2357/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1039-find-the-town-judge](https://github.com/vector2357/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vector2357/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/vector2357/LeetCode/tree/master/0048-rotate-image) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/vector2357/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Strongly Connected Component
