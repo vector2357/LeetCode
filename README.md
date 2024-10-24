@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vector2357/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/vector2357/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/vector2357/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/vector2357/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vector2357/LeetCode/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vector2357/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0539-minimum-time-difference](https://github.com/vector2357/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/vector2357/LeetCode/tree/master/0046-permutations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vector2357/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
