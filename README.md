@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vector2357/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/vector2357/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vector2357/LeetCode/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/vector2357/LeetCode/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vector2357/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0539-minimum-time-difference](https://github.com/vector2357/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0792-binary-search](https://github.com/vector2357/LeetCode/tree/master/0792-binary-search) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vector2357/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/vector2357/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/vector2357/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vector2357/LeetCode/tree/master/0070-climbing-stairs) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vector2357/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Memoization
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vector2357/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/vector2357/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/vector2357/LeetCode/tree/master/0055-jump-game) |
 | [0670-maximum-swap](https://github.com/vector2357/LeetCode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vector2357/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/vector2357/LeetCode/tree/master/1304-longest-happy-string) |
