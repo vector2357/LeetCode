@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vector2357/LeetCode/tree/master/0070-climbing-stairs) |
 | [0539-minimum-time-difference](https://github.com/vector2357/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/vector2357/LeetCode/tree/master/0670-maximum-swap) |
+| [2649-count-total-number-of-colored-cells](https://github.com/vector2357/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Dynamic Programming
 |  |
 | ------- |
