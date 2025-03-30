@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/vector2357/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0792-binary-search](https://github.com/vector2357/LeetCode/tree/master/0792-binary-search) |
 | [1039-find-the-town-judge](https://github.com/vector2357/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vector2357/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1256-rank-transform-of-an-array](https://github.com/vector2357/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vector2357/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/vector2357/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/vector2357/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vector2357/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/vector2357/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vector2357/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vector2357/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/vector2357/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/vector2357/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vector2357/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/vector2357/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vector2357/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vector2357/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/vector2357/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sliding Window
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vector2357/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/vector2357/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vector2357/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vector2357/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/vector2357/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vector2357/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vector2357/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vector2357/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/vector2357/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vector2357/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vector2357/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -362,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/vector2357/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vector2357/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
