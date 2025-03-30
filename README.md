@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vector2357/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/vector2357/LeetCode/tree/master/0036-valid-sudoku) |
 | [0567-permutation-in-string](https://github.com/vector2357/LeetCode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/vector2357/LeetCode/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vector2357/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1039-find-the-town-judge](https://github.com/vector2357/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/vector2357/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/vector2357/LeetCode/tree/master/0038-count-and-say) |
 | [0539-minimum-time-difference](https://github.com/vector2357/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/vector2357/LeetCode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/vector2357/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/vector2357/LeetCode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vector2357/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vector2357/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vector2357/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vector2357/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vector2357/LeetCode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/vector2357/LeetCode/tree/master/0768-partition-labels) |
 | [1923-sentence-similarity-iii](https://github.com/vector2357/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vector2357/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vector2357/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vector2357/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vector2357/LeetCode/tree/master/0055-jump-game) |
 | [0670-maximum-swap](https://github.com/vector2357/LeetCode/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/vector2357/LeetCode/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vector2357/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/vector2357/LeetCode/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vector2357/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
