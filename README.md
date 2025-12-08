@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/vector2357/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0539-minimum-time-difference](https://github.com/vector2357/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/vector2357/LeetCode/tree/master/0670-maximum-swap) |
+| [1925-count-square-sum-triples](https://github.com/vector2357/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2649-count-total-number-of-colored-cells](https://github.com/vector2357/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3830-find-closest-person](https://github.com/vector2357/LeetCode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/vector2357/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vector2357/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Divide and Conquer
 |  |
