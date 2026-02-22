@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/vector2357/LeetCode/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vector2357/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0868-binary-gap](https://github.com/vector2357/LeetCode/tree/master/0868-binary-gap) |
 | [1435-xor-queries-of-a-subarray](https://github.com/vector2357/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vector2357/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/vector2357/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
