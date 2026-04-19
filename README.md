@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/vector2357/LeetCode/tree/master/3324-split-the-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vector2357/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vector2357/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vector2357/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vector2357/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vector2357/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vector2357/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vector2357/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/vector2357/LeetCode/tree/master/0670-maximum-swap) |
 | [1925-count-square-sum-triples](https://github.com/vector2357/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2649-count-total-number-of-colored-cells](https://github.com/vector2357/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vector2357/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3830-find-closest-person](https://github.com/vector2357/LeetCode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
