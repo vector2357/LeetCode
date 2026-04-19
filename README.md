@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vector2357/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/vector2357/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vector2357/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/vector2357/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1923-sentence-similarity-iii](https://github.com/vector2357/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/vector2357/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vector2357/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/vector2357/LeetCode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/vector2357/LeetCode/tree/master/0792-binary-search) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/vector2357/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Math
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vector2357/LeetCode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vector2357/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/vector2357/LeetCode/tree/master/0768-partition-labels) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/vector2357/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1923-sentence-similarity-iii](https://github.com/vector2357/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vector2357/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vector2357/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
