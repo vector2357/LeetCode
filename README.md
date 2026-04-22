@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/vector2357/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vector2357/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/vector2357/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vector2357/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vector2357/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vector2357/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1923-sentence-similarity-iii](https://github.com/vector2357/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vector2357/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/vector2357/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/vector2357/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vector2357/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/vector2357/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -426,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vector2357/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vector2357/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
