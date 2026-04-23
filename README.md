@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vector2357/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vector2357/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vector2357/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2615-sum-of-distances](https://github.com/vector2357/LeetCode/tree/master/2615-sum-of-distances) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vector2357/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3324-split-the-array](https://github.com/vector2357/LeetCode/tree/master/3324-split-the-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vector2357/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vector2357/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vector2357/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vector2357/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2615-sum-of-distances](https://github.com/vector2357/LeetCode/tree/master/2615-sum-of-distances) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/vector2357/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3324-split-the-array](https://github.com/vector2357/LeetCode/tree/master/3324-split-the-array) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vector2357/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/vector2357/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1940-maximum-xor-for-each-query](https://github.com/vector2357/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [2615-sum-of-distances](https://github.com/vector2357/LeetCode/tree/master/2615-sum-of-distances) |
 ## String
 |  |
 | ------- |
