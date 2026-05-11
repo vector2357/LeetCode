@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/vector2357/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vector2357/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1923-sentence-similarity-iii](https://github.com/vector2357/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1929-concatenation-of-array](https://github.com/vector2357/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/vector2357/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vector2357/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vector2357/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vector2357/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1929-concatenation-of-array](https://github.com/vector2357/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vector2357/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vector2357/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String Matching
