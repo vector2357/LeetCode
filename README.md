@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/vector2357/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1470-shuffle-the-array](https://github.com/vector2357/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vector2357/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vector2357/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/vector2357/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vector2357/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vector2357/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/vector2357/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/vector2357/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/vector2357/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vector2357/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vector2357/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vector2357/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vector2357/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/vector2357/LeetCode/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vector2357/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/vector2357/LeetCode/tree/master/1304-longest-happy-string) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vector2357/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vector2357/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vector2357/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vector2357/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
