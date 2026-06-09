@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/vector2357/LeetCode/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/vector2357/LeetCode/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vector2357/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/vector2357/LeetCode/tree/master/0868-binary-gap) |
 | [1435-xor-queries-of-a-subarray](https://github.com/vector2357/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/vector2357/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/vector2357/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vector2357/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/vector2357/LeetCode/tree/master/0338-counting-bits) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vector2357/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vector2357/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Memoization
