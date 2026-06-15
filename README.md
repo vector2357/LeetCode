@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vector2357/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1923-sentence-similarity-iii](https://github.com/vector2357/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vector2357/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vector2357/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vector2357/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/vector2357/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vector2357/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/vector2357/LeetCode/tree/master/0061-rotate-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vector2357/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
