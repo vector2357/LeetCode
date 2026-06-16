@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vector2357/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vector2357/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/vector2357/LeetCode/tree/master/3451-string-compression-iii) |
+| [3612-process-string-with-special-operations-i](https://github.com/vector2357/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vector2357/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/vector2357/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vector2357/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vector2357/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3612-process-string-with-special-operations-i](https://github.com/vector2357/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## String Matching
 |  |
 | ------- |
