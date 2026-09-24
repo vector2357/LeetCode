@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/vector2357/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vector2357/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3324-split-the-array](https://github.com/vector2357/LeetCode/tree/master/3324-split-the-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vector2357/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vector2357/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vector2357/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3689-maximum-total-subarray-value-i](https://github.com/vector2357/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/vector2357/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2649-count-total-number-of-colored-cells](https://github.com/vector2357/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vector2357/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vector2357/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vector2357/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3830-find-closest-person](https://github.com/vector2357/LeetCode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
