@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vector2357/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vector2357/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3689-maximum-total-subarray-value-i](https://github.com/vector2357/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/vector2357/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vector2357/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/vector2357/LeetCode/tree/master/0338-counting-bits) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vector2357/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vector2357/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3693-climbing-stairs-ii](https://github.com/vector2357/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |
